@@ -57,12 +57,13 @@ All diagrams, cases, examples, and scenarios are fictional or based on publicly 
 | [`NOTICE.md`](NOTICE.md) | Third-party attribution and SPARTA notice |
 | [`LICENSE`](LICENSE) | License for original content created in this repository |
 
-## Planned documents
+### Study documents
 
 - [What is SPARTA?](docs/01-o-que-e-sparta.md)
 - [SPARTA and MITRE ATT&CK: an introductory comparison](docs/02-sparta-e-mitre-attack.md)
-- [Space Cybersecurity Glossary — PT-BR / EN](docs/03-glossario-ptbr-en.md)
-- [SPARTA and threat modeling](docs/04-sparta-e-threat-modeling.md)
+- [Space Cybersecurity Glossary — PT-BR / EN](docs/03-glossario-space-cybersecurity-ptbr-en.md)
+- [How to read the SPARTA matrix](docs/04-como-ler-a-matriz-sparta.md)
+- [SPARTA and threat modeling](docs/05-sparta-e-threat-modeling.md)
 
 ## Sources
 
