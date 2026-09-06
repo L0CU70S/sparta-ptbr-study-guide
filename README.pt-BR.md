@@ -59,13 +59,14 @@ Todos os diagramas, cenários, exemplos e casos são fictícios ou baseados em i
 | [`NOTICE.md`](NOTICE.md) | Atribuição de terceiros e aviso relacionado ao SPARTA |
 | [`LICENSE`](LICENSE) | Licença do conteúdo original criado neste repositório |
 
-## Documentos planejados
+## Documentos de estudo
 
 - [O que é SPARTA?](docs/01-o-que-e-sparta.md)
 - [SPARTA e MITRE ATT&CK: comparação introdutória](docs/02-sparta-e-mitre-attack.md)
-- [Glossário de Cibersegurança Espacial — PT-BR / EN](docs/03-glossario-ptbr-en.md)
-- [SPARTA e modelagem de ameaças](docs/04-sparta-e-threat-modeling.md)
-
+- [Glossário de Cibersegurança Espacial — PT-BR / EN](docs/03-glossario-space-cybersecurity-ptbr-en.md)
+- [Como ler a matriz SPARTA](docs/04-como-ler-a-matriz-sparta.md)
+- [SPARTA e modelagem de ameaças](docs/05-sparta-e-threat-modeling.md)
+  
 ## Fontes
 
 Este guia de estudos utiliza fontes públicas, incluindo:
